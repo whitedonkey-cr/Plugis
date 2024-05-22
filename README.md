@@ -11,3 +11,9 @@
 
 # nvm
 傻瓜式一键安装即可。
+
+
+# 好用的全局插件
+npmjs.com:npm官网   以下插件可以在npm官网找到使用教程
+nrm：切换镜像---taobao
+i5ting_toc : 将md文件转换成index.html文件
